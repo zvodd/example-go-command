@@ -9,6 +9,8 @@ cd .
 go run cmd/example-go-cmd/main.go --gui
 ```
 or
+
+Doesn't work?
 ```
 go get github.com/zvodd/example-go-command
 example-go-command
